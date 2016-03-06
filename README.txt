@@ -65,7 +65,7 @@ make install
 
 cd ~python-src
 wget https://pypi.python.org/packages/source/v/virtualenv/virtualenv-15.0.0.tar.gz#md5=d9652f8d154546926939066e596af83c
-tar -zxvf virtualenv-1.5.2.tar.gz
+tar -zxvf virtualenv-15.0.0.tar.gz
 cd virtualenv-15.0.0/
 ~/.localpython/bin/python setup.py install
 

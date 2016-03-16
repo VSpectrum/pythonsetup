@@ -51,7 +51,7 @@ mkdir ~/.localpython
 cd ~/python-src
 
 wget https://www.python.org/ftp/python/2.7.11/Python-2.7.11.tgz
-tar -zxvf Python-2.7.11.tar.gz
+tar -zxvf Python-2.7.11.tgz
 cd Python-2.7.11
 
 make clean
